@@ -1,0 +1,182 @@
+@media screen and (max-width: 400) {
+
+    body {
+        background: url(http://littlemanparking.com/wp-content/uploads/2014/01/parking_garage1.jpg);
+        background-size: cover;
+    }
+
+    ul li {
+        color: white;
+        text-align: center;
+        list-style: none;
+    }
+    img {
+        display: block;
+        margin: 0 auto;
+        max-width: 300px;
+    }
+    h1 {
+        color: white;
+        text-align: center;
+        font-size: 40px;
+    }
+    img {
+        max-width: 400px;
+    }
+    .distance {
+        width: 200px;
+        color: white;
+        margin: 0 auto;
+        display: block;
+    }
+    .distance h2 {
+        text-align: center;
+    }
+    .distance span{
+        float: right;
+    }
+    .price {
+        width: 200px;
+        color: white;
+        margin: 0 auto;
+        display: block;
+
+    }
+    .price span {
+        float: right;
+    }
+    .price h2 {
+        text-align: center;
+    }
+    footer {
+        position: bottom;
+        text-align: center;
+        display: block;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    footer a {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+
+    body {
+        background: url(http://littlemanparking.com/wp-content/uploads/2014/01/parking_garage1.jpg);
+        background-size: cover;
+    }
+
+    ul li {
+        color: white;
+        text-align: center;
+        list-style: none;
+    }
+    img {
+        display: block;
+        margin: 0 auto;
+        max-width: 600px;
+    }
+    h1 {
+        color: white;
+        text-align: center;
+        font-size: 40px;
+    }
+    .distance {
+        width: 200px;
+        color: white;
+        margin: 0 100px 0 150px;
+        display: inline-block;
+    }
+    .distance h2 {
+        text-align: center;
+    }
+    .distance span{
+        float: right;
+    }
+    .price {
+        width: 200px;
+        color: white;
+        margin: 0 100px 0 100px;
+        display: inline-block;
+
+    }
+    .price span {
+        float: right;
+    }
+    .price h2 {
+        text-align: center;
+    }
+    footer {
+        position: bottom;
+        text-align: center;
+        display: block;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    footer a {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+    body {
+        background: url(http://littlemanparking.com/wp-content/uploads/2014/01/parking_garage1.jpg);
+        background-size: cover;
+    }
+
+    ul li {
+        color: white;
+        text-align: center;
+        list-style: none;
+    }
+    img {
+        display: block;
+        margin: 0 auto;
+        max-width: 1000px;
+    }
+    h1 {
+        color: white;
+        text-align: center;
+        font-size: 40px;
+    }
+    .distance {
+        width: 500px;
+        color: white;
+        margin: 0 0 0 100px;
+        display: inline-block;
+    }
+    .distance h2 {
+        text-align: center;
+    }
+    .distance span{
+        float: right;
+    }
+    .price {
+        width: 500px;
+        color: white;
+        margin: 0 100px 0 0;
+        display: inline-block;
+
+    }
+    .price span {
+        float: right;
+    }
+    .price h2 {
+        text-align: center;
+    }
+    footer {
+        position: bottom;
+        text-align: center;
+        display: block;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    footer a {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+    }
+}
